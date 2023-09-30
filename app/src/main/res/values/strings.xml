@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AmazonCloneApplication</string>
+    <string name="amazon">Amazon</string>
+    <string name="confirm">Confirm</string>
+    <!--    <string name="signInTextView">Already a cusomer? sign in</string>-->
+</resources>
